@@ -23,8 +23,8 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://i.imgur.com/Me2kDQG.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-![4p9p4o](https://i.imgur.com/Me2kDQG.gif)
+<img src='https://i.imgur.com/Me2kDQG.gif' title='Video Walkthrough' width='50' alt='Video Walkthrough' />
+Gif Link here as well: (https://i.imgur.com/Me2kDQG.gif)
 
 
 <!-- Replace this with whatever GIF tool you used! -->
