@@ -22,6 +22,7 @@ The following **optional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features: (https://i.imgur.com/Me2kDQG.gif)
+![WebFunctionality](https://github.com/Imtiaz5/web102_prework/assets/81115631/36a16442-7ad2-4b49-97e6-0b2f04214698)
 
 <img src='WebFunctionality.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
