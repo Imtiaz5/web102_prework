@@ -21,14 +21,11 @@ The following **optional** features are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented features:
+Here's a walkthrough of implemented features: (https://i.imgur.com/Me2kDQG.gif)
 
 <img src='https://i.imgur.com/Me2kDQG.gif' title='Video Walkthrough' width='50' alt='Video Walkthrough' />
 
 ![Alt Text](https://i.imgur.com/Me2kDQG.gif)
-
-Gif Link here as well: (https://i.imgur.com/Me2kDQG.gif)
-
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with FFMPEG
